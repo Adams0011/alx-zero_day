@@ -1,6 +1,2 @@
 #!/bin/bsh
-<<<<<<< HEAD
-echo "ALX School"
-=======
 echo "ALX school"
->>>>>>> 741993e99a974a802afe80630ee3ac14161e829d
